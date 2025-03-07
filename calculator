@@ -1,19 +1,70 @@
 Console.WriteLine("Umar Amir");
 Console.WriteLine("24-ST-012");
 using System;
+Subtraction
 
+
+Multiplication
+
+Addition
+
+
+main
+main
+main
 class Program
 {
     static void Main()
     {
+Subtraction
+
+ Multiplication
+main
         // Declare two numbers
         double num1 = 10;
         double num2 = 5;
 
+ Subtraction
         // Perform subtraction
         double result = num1 - num2;
 
         // Output the result
         Console.WriteLine("The result of subtracting " + num2 + " from " + num1 + " is: " + result);
+
+        // Perform multiplication
+        double result = num1 * num2;
+
+        // Output the result
+        Console.WriteLine("The result of multiplying " + num1 + " and " + num2 + " is: " + result);
+
+Addition
+        // Declare two variables to store the numbers
+        int number1, number2, sum;
+
+        // Get input from the user
+        Console.WriteLine("Enter the first number: ");
+        number1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Enter the second number: ");
+        number2 = Convert.ToInt32(Console.ReadLine());
+
+        // Add the two numbers
+        sum = number1 + number2;
+
+        // Display the result
+        Console.WriteLine("The sum of {0} and {1} is: {2}", number1, number2, sum);
+
+        // Declare two numbers
+        double num1 = 10;
+        double num2 = 2;
+
+        // Perform division
+        double result = num1 / num2;
+
+        // Output the result
+        Console.WriteLine("The result of dividing " + num1 + " by " + num2 + " is: " + result);
+main
+main
+main
     }
 }
