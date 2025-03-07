@@ -1,6 +1,9 @@
 Console.WriteLine("Umar Amir");
 Console.WriteLine("24-ST-012");
 using System;
+Subtraction
+
+
 Multiplication
 
 Addition
@@ -8,14 +11,25 @@ Addition
 
 main
 main
+main
 class Program
 {
     static void Main()
     {
+Subtraction
+
  Multiplication
+main
         // Declare two numbers
         double num1 = 10;
         double num2 = 5;
+
+ Subtraction
+        // Perform subtraction
+        double result = num1 - num2;
+
+        // Output the result
+        Console.WriteLine("The result of subtracting " + num2 + " from " + num1 + " is: " + result);
 
         // Perform multiplication
         double result = num1 * num2;
@@ -49,6 +63,7 @@ Addition
 
         // Output the result
         Console.WriteLine("The result of dividing " + num1 + " by " + num2 + " is: " + result);
+main
 main
 main
     }
